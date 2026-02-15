@@ -1,6 +1,7 @@
 # dependencies (bun install)
 node_modules
-
+notebook_data
+surreal_data
 
 # output
 out
