@@ -1,0 +1,9 @@
+{
+  "name": "open-notebook-launcher",
+  "private": true,
+  "scripts": {
+    "docker": "docker compose up -d",
+    "open": "open http://localhost:8502",
+    "start": "bun docker && bun open"
+  }
+}
